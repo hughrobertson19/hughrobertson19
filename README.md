@@ -2,9 +2,9 @@
 
 I came to software from enterprise sales. I build AI systems and the checks that keep them honest, and I say plainly what isn't done yet.
 
-**Open to:** Deployment Strategist, Go-to-Market Engineer, Solutions and Customer Engineer, and Applied AI roles, in Chicago or remote.
+**Open to:** Solutions Engineer, Customer Engineer, Deployment Strategist, Go-to-Market Engineer, Applied AI Engineer, in Chicago or remote.
 
-**Portfolio:** [aihugh.org](https://aihugh.org). One page; every claim carries the date I checked it, or names its gap.
+**Portfolio:** [aihugh.org](https://aihugh.org), an interactive walkthrough of how I evaluate AI agents.
 
 **Built as learning projects:**
 - [shayke-public](https://github.com/hughrobertson19/shayke-public): Shayke, an applied learning project. How I stop AI agents gaming their own scores: the scorer lives in its own repo, simulated sellers test the product every night, and the gaps are published. Includes a runnable quote check for AI judges.
